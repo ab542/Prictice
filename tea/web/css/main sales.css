@@ -1,0 +1,53 @@
+.logo{float:left;margin:31px 25px 31px 0;width:177px;height:48px;border-right:1px solid #ebebeb}
+        #navbar{position:relative;height:110px;border-bottom:4px solid #cd131c;background:#fff}
+        .nav_navcon{float:left;width:875px}
+        .nav_navcon li{float:left;margin-right:16px;height:110px;font-size:18px;line-height:110px;word-break:keep-all}
+        .nav_navcon li img.dxw{padding-top:11px;width:90px;height:31px}
+        .nav_navcon li a{height:110px;color:#2d2d2d}
+        .navmenu {
+            width: 14px;
+            float: right;
+            margin-top: 48px;
+            margin-right: 10px;
+            background: url(//image.cns.com.cn/default/5ddb9ec3/20210721/11.jpg);
+            border-top: 0px solid #ea3440;
+            border-bottom: 0px solid #ea3440;
+            padding: 0;
+            height: 12px;
+            background-color: transparent;
+            cursor: pointer;
+        }
+        .nav_navcon_more{position:absolute;top:-3px;left:0;z-index:999;display:none;width:100%;height:585px;border-bottom:3px solid #f42e3e;background:#fff}
+        .nav_navcon_more .w1280{position:relative;overflow:hidden;padding-top:10px;height:inherit;border-top:1px solid #f3f3f3}
+        .nav_navcon_more .con{float:left;width:50%}
+        .nav_navcon_more .navlist{width:100%;color:#666;font-size:16px;line-height:42px}
+        .nav_navcon_more .navlist a{color:#666;font-size:14px}
+        .nav_navcon_more .navlist a:hover{color:#e01b2b}
+        .nav_navcon_more .navlist strong{margin-right:28px;color:#333}
+        .nav_navcon_more .navlist strong a{color:#333;font-size:16px}
+        .nav_navcon_more .navlist em{padding:0 8px}
+        .nav_navcon_more .navlist .left{width:100px;text-align:right}
+        .nav_navcon_more .navlist .left1{float:left;width:530px}
+        .nav_navcon_more .otherlogo{margin-top:10px;padding-top:15px;border-top:1px solid #f3f3f3}
+        .nav_navcon_more .otherlogo a{float:left;margin-right:40px}
+        .nav_navcon_more .otherlogo img{
+        height:45px;
+        vertical-align:middle;
+        }
+        .nav_close{position:absolute;right:0;bottom:33px;display:block;width:36px;height:36px;background:url(//image.cns.com.cn/default/5ddb9ec3/20210728/close.jpg) no-repeat top;cursor:pointer;-webkit-transition:All .4s ease-in-out;-moz-transition:All .4s ease-in-out;-o-transition:All .4s ease-in-out;transition:All .4s ease-in-out}
+        .nav_close:hover{background:url(//image.cns.com.cn/default/5ddb9ec3/20210728/2334.png) no-repeat top;-webkit-transform:rotate(1turn);-moz-transform:rotate(1turn);-o-transform:rotate(1turn);transform:rotate(1turn);-ms-transform:rotate(1turn)}
+        .nav_navcon .caijing,.nav_navcon .shizheng,.nav_navcon .wenyu{position:relative}
+        .nav_navcon li img.arr{margin-left:4px;vertical-align:middle}
+        .nav_navcon li .arrowDown{transform:rotate(0);transform-origin:center center}
+        .nav_navcon li .arrowDown,.nav_navcon li .arrowup{-webkit-transition:-webkit-transform .4s ease-out;-moz-transition:-webkit-transform .4s ease-out;transition:-webkit-transform .4s ease-out}
+        .nav_navcon li .arrowUp{transform:rotate(180deg);transform-origin:center center}
+        .caijing_add,.shizheng_add,.wenyu_add{position:absolute;bottom:-10px;left:-21px;display:none;width:700px;height:30px;line-height:30px;text-align:left;font-size:16px;z-index:2;}
+        .caijing_add a,.shizheng_add a,.wenyu_add a{padding:0 20px; }
+        .nav_navcon li .caijing_add a,.nav_navcon li .shizheng_add a,.nav_navcon li .wenyu_add a{height: 30px; line-height: 30px;}
+        #navbar{-webkit-transition:all .1s ease-out;transition:all .1s ease-out}
+        .substation{position:absolute;bottom:32px;left:0;display:none;width:100%;height:50px;color:#d1d1d1;text-align:center;font-size:14px}
+        .substation a,.substation a:hover{padding:0 6px;color:#2d2d2d;font-size:14px}
+        
+        .searchinput{padding:9px 0 0 0;width:182px;float:right; margin-top: 24px;}
+        .searchinput .search_input{border:#aaa 1px solid;border-right:none;width:138px;padding:0 0 0 10px;background:#fff;color:#666;line-height:38px;height:38px;float:left;border-radius:10px 0 0 10px}
+        .searchinput .search_a{line-height:38px;text-align:center;color:#fff;background:url(//www.chinanews.com.cn/fileftp/2022/03/2022-03-21/U435P4T47D49950F980DT20220322164751.jpg) no-repeat left center;float:left;display:block;width:32px;height:38px;text-decoration:none;font-size:0;border:#aaa 1px solid;border-left:none;border-radius:0 10px 10px 0}
